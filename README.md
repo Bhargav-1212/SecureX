@@ -85,3 +85,8 @@ cd ../client npm run dev
 - Git & GitHub
 - Postman (API Testing)
 - Visual Studio Code (IDE)
+<h2>Team Members and Roles</h2>
+- C Bhargav (BlockChain and Frontend)
+- K Dheeraj (Backend)
+- P Panav (AI and IPFS)
+- D Dhanush (Frontend)
